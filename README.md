@@ -19,7 +19,9 @@ Instala las dependencias necesarias ejecutando
 
 - Coloca el archivo de Excel que deseas convertir en la carpeta raíz del proyecto.
 - Abre el archivo convert.py y modifica la variable routeArchive con la ruta relativa o absoluta del archivo de Excel que deseas convertir.
-- Ejecuta el script con el comando python convert.py.
+- Ejecuta el script con el comando 
+
+        python app.py
 - El archivo JSON resultante se guardará en la carpeta json con el mismo nombre que el archivo de Excel original.
 
 ## Contribuciones

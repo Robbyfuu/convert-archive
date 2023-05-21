@@ -1,1 +1,20 @@
 json/*.json
+# python
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+# pyenv
+.python-version
+#build
+build/
+# logs
+logs/
+# data
+data/
+# env
+env/
+# .env
+.env
+# distribution
+dist/
