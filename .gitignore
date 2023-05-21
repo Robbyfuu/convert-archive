@@ -18,3 +18,5 @@ env/
 .env
 # distribution
 dist/
+# macOS
+.DS_Store
