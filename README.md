@@ -3,10 +3,16 @@ Este script de Python convierte archivos de Excel a formato JSON utilizando la l
 
 ## Requisitos
 Para poder ejecutar este script necesitas tener instalado lo siguiente:
-
+- Java
 - Python 3.x
 - JPype
 - Aspose.Cells
+
+- EN MAC o Linux 
+en ~/.zshrc o ~/.bashrc
+agregar
+
+        export JAVA_HOME=$(brew --prefix openjdk)
 
 ## Instalación
 Clona este repositorio en tu máquina local.

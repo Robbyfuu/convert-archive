@@ -1,2 +1,2 @@
-jpype
-asposecells
+jpype1
+aspose-cells
